@@ -9,7 +9,7 @@ head{
 }
 
 .text1{
-background-color: #FFFFF;
+background-color: white;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 margin-left: 282px;
@@ -34,7 +34,7 @@ border-radius: 20px;
 
 .button{
 
-    background-color: #FFFF;
+    background-color: white;
 
     margin-left: 680px;
     margin-right: 720px;
@@ -184,7 +184,7 @@ border-radius: 20px;
 }
 
 .j14{
-  background-color: #FFFF;
+  background-color: white;
   width: 1500px;
   height: 80px;
 }
@@ -220,7 +220,7 @@ border-radius: 20px;
 }
 
 .j17{
-  background-color: #FFFF;
+  background-color: white;
   width: 1500px;
   height: 450px;
   margin-top: 0px;
@@ -245,7 +245,7 @@ border-radius: 20px;
 }
 
 .j26{
-  background-color: #FFFF;
+  background-color: white;
   -webkit-background-clip: text;
   margin-top: -230px;
   margin-left: 115px;
@@ -253,7 +253,7 @@ border-radius: 20px;
 }
 
 .j27{
-  background-color: #FFFF;
+  background-color: white;
   -webkit-background-clip: text;
   margin-top: 50px;
   font-size: -40px;
@@ -262,7 +262,7 @@ border-radius: 20px;
 }
 
 .j28{
-  background-color: #FFFF;
+  background-color: white;
   -webkit-background-clip: text;
   margin-left: 616px;
   margin-top: -145px;
@@ -299,3 +299,4 @@ border-radius: 20px;
  margin-left: 800px;
  margin-top: -62px;
 }
+
